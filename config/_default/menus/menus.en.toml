@@ -13,22 +13,22 @@
 #   url = "/posts/"
 #   weight = 30
 
-[[main]]
-  name = "Projects"
-  url = "/projects/"
-  weight = 30
+# [[main]]
+#   name = "Projects"
+#   url = "/projects/"
+#   weight = 30
 
-[[main]]
-  name = "Sample project"
-  url = "/en/projects/sample-project/"
-  parent = "Projects"
-  weight = 1
+# [[main]]
+#   name = "Sample project"
+#   url = "/en/projects/sample-project/"
+#   parent = "Projects"
+#   weight = 1
 
-[[main]]
-  name = "Another project"
-  url = "/en/projects/another-project/"
-  parent = "Projects"
-  weight = 2
+# [[main]]
+#   name = "Another project"
+#   url = "/en/projects/another-project/"
+#   parent = "Projects"
+#   weight = 2
 
 [[main]]
   name = "Tags"
