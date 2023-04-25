@@ -14,42 +14,10 @@
 
 # toml-docs-start home
 [home]
-    sections = ["blog", "projects"]
+    # sections = ["blog", "projects"]
+    sections = ["blog"]
     featurePhoto = "/img/fig.png" # source: https://unsplash.com/photos/ZX6BPboJrYk
-    fullCover = false
-    centerHeadline = false
-    style = ""
-# toml-docs-end home
-
-# toml-docs-start navigation
-[navigation]
-    anchor = true
-    logo = "/img/logo_icon.svg"
-    color = "body"
-    fixed = true
-    offset = "3.8em"
-    search = true
-    breadcrumb = false
-    toc = true
-    sidebar = true
-# toml-docs-end navigation
-
-# toml-docs-start list
-[list]
-    [posts]
-        title = "Posts"
-        sort = "date"
-        reverse = true
-        cols = 3
-        color = ""
-        padding = "0"
-        header = "full"
-        footer = "none"
-        orientation = "stacked"
-        style = "border-0 card-zoom"
-        homepage = 3
-        separator = true
-    [blog]
+    fullCover = falseprojects
         title = "Posts"
         sort = "date"
         reverse = false
