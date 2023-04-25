@@ -1,5 +1,5 @@
 # toml-docs-start main
-title = "FlatFig"
+title = "flatFig"
 copyright = "Copyright © 2023 Flat Fig company - "
 paginate = 9
 enableGitInfo = true
@@ -33,6 +33,7 @@ defaultContentLanguageInSubdir = true
   
 [taxonomies]
   tag = 'tags'
+
 
 [privacy]
   [privacy.vimeo]
