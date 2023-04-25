@@ -1,5 +1,5 @@
 [[main]]
-  name = "Privacy"
+  name = "Privacy Policy"
   url = "/about/"
   weight = 10
 
@@ -13,22 +13,22 @@
 #   url = "/posts/"
 #   weight = 30
 
-# [[main]]
-#   name = "Projects"
-#   url = "/projects/"
-#   weight = 30
+[[main]]
+  name = "Projects"
+  url = "/projects/"
+  weight = 30
 
-# [[main]]
-#   name = "Sample project"
-#   url = "/en/projects/sample-project/"
-#   parent = "Projects"
-#   weight = 1
+[[main]]
+  name = "Sample project"
+  url = "/en/projects/sample-project/"
+  parent = "Projects"
+  weight = 1
 
-# [[main]]
-#   name = "Another project"
-#   url = "/en/projects/another-project/"
-#   parent = "Projects"
-#  weight = 2
+[[main]]
+  name = "Another project"
+  url = "/en/projects/another-project/"
+  parent = "Projects"
+  weight = 2
 
 [[main]]
   name = "Tags"
@@ -64,20 +64,20 @@
 #   url = "/posts/"
 #   weight = 20
 
-# [[sample]]
-#   name = "Projects"
-#   url = "/projects/"
-#   weight = 20
+[[sample]]
+  name = "Projects"
+  url = "/projects/"
+  weight = 20
 
-# [[sample]]
-#   name = "Sample project"
-#   url = "/en/projects/sample-project/"
-#   parent = "Projects"
-#   weight = 1
+[[sample]]
+  name = "Sample project"
+  url = "/en/projects/sample-project/"
+  parent = "Projects"
+  weight = 1
 
-# [[sample]]
-#   name = "Another project"
-#   url = "/en/projects/another-project/"
-#   parent = "Projects"
-#   weight = 2
+[[sample]]
+  name = "Another project"
+  url = "/en/projects/another-project/"
+  parent = "Projects"
+  weight = 2
 # toml-docs-end sample-navigation
