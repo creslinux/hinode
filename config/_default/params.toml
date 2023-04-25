@@ -17,7 +17,7 @@
     # sections = ["blog", "projects"]
     sections = ["blog"]
     featurePhoto = "/img/fig.png" # source: https://unsplash.com/photos/ZX6BPboJrYk
-    fullCover = falseprojects
+    fullCover = false
         title = "Posts"
         sort = "date"
         reverse = false
